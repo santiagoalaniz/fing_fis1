@@ -6,11 +6,11 @@ El plan sale del análisis de 32 exámenes (feb 2016 → feb 2026, ver [ANALISIS
 
 - **Examen: lunes 14/12 a las 13:00** (fecha tentativa, PDF de la FING del 19/11; código 1151). Física arranca el **miércoles 25/11** (el martes 24 no se pudo).
 - Presupuesto (desde el 25/11):
-  - **lunes a viernes: 1–2 h, una materia por día**, alternando con Arqcom. Física tiene 7 días: 25/11, 27/11, 01/12, 03/12, 07/12, 09/12 y 11/12.
-  - **sábado y domingo: 5 h, 2,5 h por materia.**
-- **Entre semana se lee y se entiende; los fines de semana se practica.**
-  - Día de semana (📖): la sección del megaresumen explicada (la idea, el método, las trampas) y 1 o 2 ejercicios de examen resueltos en forma guiada con Claude, leyendo la solución.
-  - Fin de semana (⏱): 6 o 7 ejercicios de examen de lo leído en la semana, por tu cuenta y cronometrados.
+  - **lunes a viernes: 1–1,5 h, una materia por día**, alternando con Arqcom. Física tiene 7 días: 25/11, 27/11, 01/12, 03/12, 07/12, 09/12 y 11/12.
+  - **sábado y domingo: 4–5 h, 2–2,5 h por materia.**
+- **Entre semana, práctica corta (recuperar e intentar); los fines de semana, práctica larga.** Recuperar de memoria y espaciar rinde más que releer (Dunlosky 2013, Cepeda 2006).
+  - Día de semana (📖): 10 min de recuperar de memoria la sesión anterior, 1 o 2 ejercicios de examen intentados **antes** de mirar la solución (guiado con Claude) y la sección del megaresumen solo para lo que no salió.
+  - Fin de semana (⏱): 6 o 7 ejercicios de examen de lo visto en la semana, por tu cuenta y cronometrados, en 2 bloques de unos 70 min con pausa.
 - **Orden según la evidencia** (ejercicios por examen desde 2022, ver [ANALISIS.md](ANALISIS.md)):
   1. **Partícula primero:** cinemática y movimiento relativo (§2–3, 2,3 por examen) y Newton (§4, 1,2) son los ej. 1–4. Son los más fáciles y aportan casi la mitad de los 7 que hacen falta.
   2. **Energía y choques sin sesión propia** (§7 0,8 y §8 0,7, en baja): se leen en la práctica del domingo 29/11. §5, §6 y §9 suman menos de 1 por examen: alcanza con la hoja de fórmulas.
@@ -32,13 +32,14 @@ El plan sale del análisis de 32 exámenes (feb 2016 → feb 2026, ver [ANALISIS
 
 ## Formato de sesión
 
-**Día de semana (📖, 1–2 h):**
-1. Leer la sección del megaresumen: "La idea", el ejemplo resuelto y la tabla de resultados. Claude explica la lógica del tipo de problema.
-2. 1 o 2 ejercicios de examen en forma guiada, leyendo la solución.
+**Día de semana (📖, 1–1,5 h, un bloque):**
+1. 10 min: escribir de memoria (sin mirar) las fórmulas y resultados de la sesión anterior; después comparar.
+2. 1 o 2 ejercicios de examen: intentarlos primero; Claude guía con pistas, y la solución se mira al final.
+3. Leer de la sección del megaresumen solo lo que faltó ("La idea", el ejemplo resuelto, la tabla de resultados).
 
-**Fin de semana (⏱, 2,5 h):**
+**Fin de semana (⏱, 2–2,5 h):**
 1. 5 min de repaso de la tabla de resultados del tema.
-2. 6 o 7 ejercicios de examen, cronometrados a unos 20 min cada uno.
+2. 6 o 7 ejercicios de examen, cronometrados a unos 20 min cada uno, en 2 bloques de unos 70 min con 10 min de pausa.
 3. **Corrección:**
    - **Respuestas:** usar la tabla de la **Versión 1** al final de cada examen.
    - **Soluciones completas:** de 2017 a 2021 están en `examenes/resumen_examenes_resueltos_2017-2021.pdf`; de 2013 a 2021, en el escaneo `examenes/examenes_resueltos_2013-2021.pdf`.
@@ -52,7 +53,7 @@ Código: `D22-6` = Diciembre 2022, ejercicio 6. `F` = febrero, `J` = julio, `D` 
 
 ## Calendario
 
-📖 = día de semana, lectura + ejercicios guiados (1–2 h). ⏱ = fin de semana, práctica (2,5 h).
+📖 = día de semana, práctica corta: recuperar + ejercicios intentados (1–1,5 h). ⏱ = fin de semana, práctica (2–2,5 h).
 
 ### Semana del 23/11 — Partícula (ej. 1–4)
 - [ ] **1 · Mié 25/11 📖** · §2–3 Cinemática y movimiento relativo · D22-1, J24-2
